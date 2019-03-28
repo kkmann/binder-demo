@@ -1,0 +1,8 @@
+name: tensorflow
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - numpy
+  - tensorflow
+  - matplotlib
